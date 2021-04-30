@@ -1,0 +1,31 @@
+---
+course_id: 7-342-systems-biology-stochastic-processes-and-biological-robustness-fall-2008
+layout: course_section
+menu:
+  leftnav:
+    identifier: d90bf707ed30976670f1b4090aeef696
+    name: Readings
+    weight: 20
+title: Readings
+type: course
+uid: d90bf707ed30976670f1b4090aeef696
+
+---
+
+The reading assignments listed below show what you should read before coming to class. You are expected to come to class prepared to discuss the assigned articles.
+
+| SES # | TOPICS | READINGS |
+| --- | --- | --- |
+| 1 | Introduction to the class and topic | &nbsp; |
+| 2 | Simple synthetic networks |  {{< br >}}{{< br >}} Elowitz, M. B., and S. Leibler. "[A Synthetic Oscillatory Network of Transcriptional Regulators](http://www.ncbi.nlm.nih.gov/pubmed/10659856)." _Nature_ 403 (2000): 335-8. {{< br >}}{{< br >}} Becskei, A., B. Seraphin, and L. Serrano. "[Positive Feedback in Eukaryotic Gene Networks: Cell Differentiation by Graded to Binary Response Conversion](http://dx.doi.org/10.1093/emboj/20.10.2528)." _EMBO_ 20 (2001): 2528-2535. {{< br >}}{{< br >}}  |
+| 3 | Noise in gene expression I |  {{< br >}}{{< br >}} Elowitz, M. B., A. J. Levine, E. D. Siggia, and P. S. Swain. "[Stochastic Gene Expression in a Single Cell](http://dx.doi.org/10.1126/science.1070919 )." _Science_ 297 (2002): 1183-86. {{< br >}}{{< br >}} Gillespie, D. T. "[Exact Stochastic Simulation of Coupled Chemical Reactions](http://pubs.acs.org/doi/abs/10.1021/j100540a008)." _J Phys Chem_ 81 (1977): 2340-61. {{< br >}}{{< br >}}  |
+| 4 | Noise in gene expression II |  {{< br >}}{{< br >}} Bengtsson, M., A. Stahlberg, P. Rorsman, and M. Kubista. "Gene Expression Profiling in Single Cells from the Pancreatic Islets of Langerhans Reveals Lognormal Distribution of mRNA Levels." _Genome Res_ 15 (2005): 1388-92. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://genome.cshlp.org/content/15/10/1388.full.pdf)) {{< br >}}{{< br >}} Ko, M. S., H. Nakauchi, and N. Takahashi. "[The Dose Dependence of Glucocorticoid-inducible Gene Expression Results from Changes in the Number of Transcriptionally Active Templates](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=551995)." _EMBO_ 9 (1990): 2835-2842. {{< br >}}{{< br >}}  |
+| 5 | Noise in gene expression III |  {{< br >}}{{< br >}} McAdams, H. H., and A. P. Arkin. "[Stochastic Mechanisms in Gene Expression](http://www.ncbi.nlm.nih.gov/pubmed/9023339)." _PNAS_ 94 (1997): 814-19. {{< br >}}{{< br >}} Yu, J., J. Ciao, X. Ren, K. Lao, and X. S. Xie. "[Probing Gene Expression in Live Cells, One Protein Molecule at a Time](http://www.ncbi.nlm.nih.gov/pubmed/16543458)." _Science_ 311 (2006): 1600-3. {{< br >}}{{< br >}}  |
+| 6 | Structure of biological networks |  {{< br >}}{{< br >}} Rosenfeld, N., M. B. Elowitz, and U. Alon. "[Negative Autoregulation Speeds the Response Times of Transcription Networks](http://dx.doi.org/10.1016/S0022-2836(02)00994-4)." _J Mol Biol_ 323 (2002): 785-93. {{< br >}}{{< br >}} Shen-Orr, S. S., R. Milo, S. Mangan, and U. Alon. "[Network Motifs in the Transcriptional Regulation Network of Escherichia Coli](http://www.ncbi.nlm.nih.gov/pubmed/11967538)." _Nature Genetics_ 31 (2002): 64-8. {{< br >}}{{< br >}}  |
+| 7 | Network evolution and adaptation |  {{< br >}}{{< br >}} Dekel, E., and U. Alon. "[Optimality and Evolutionary Tuning of the Expression Level of a Protein](http://dx.doi.org/10.1038/nature03842)." _Nature_ 436 (2006): 588-592. {{< br >}}{{< br >}} Stern, S., T. Dror, E. Stolovicki, N. Brenner, and E. Braun. "[Genome-wide Transcriptional Plasticity Underlies Cellular Adaptation to Novel Challenge](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1865588)." _Mol Syst Biol_ 3 (2007): 1-9. {{< br >}}{{< br >}}  |
+| 8 | Chemotaxis I |  {{< br >}}{{< br >}} Purcell, E. M. "Life at Low Reynolds Number." _Am J Phys_ 45 (1977): 3-11. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.damtp.cam.ac.uk/user/gold/pdfs/purcell.pdf)) {{< br >}}{{< br >}} Berg, H. C., and E. M. Purcell. "[Physics of Chemoreception](http://dx.doi.org/10.1016/S0006-3495(77)85544-6)." _Biophys J_ 20 (1977): 193-219. {{< br >}}{{< br >}}  |
+| 9 | Chemotaxis II |  {{< br >}}{{< br >}} Alon, U., M. G. Surette, N. Barkai, and S. Leibler. "[Robustness in Bacterial Chemotaxis](http://dx.doi.org/10.1038/16483)." _Nature_ 397 (1999): 168-70. {{< br >}}{{< br >}} Sourjik, V., and H. C. Berg. "[Receptor Sensitivity in Bacterial Chemotaxis](http://www.ncbi.nlm.nih.gov/pubmed/11742065)." _PNAS_ 99 (1997): 123-27. {{< br >}}{{< br >}}  |
+| 10 | Circadian oscillations |  {{< br >}}{{< br >}} Rust, M. J., J. S. Marson, W. S. Lane, D. S. Fisher, and E. K. O'Shea. "[Order Phosphorylation Governs Oscillation of a Three-protein Circadian Clock](http://dx.doi.org/10.1126/science.1148596 )." _Science_ 318 (2007): 809-12. {{< br >}}{{< br >}} Nagoshi, E., C. Saini, C. Bauer, T. Laroche, F. Naef, and U. Schibler. "[Circadian Gene Expression in Individual Fibroblasts Cell-autonomous and Self-sustained Oscillators Pass Time to Daughter Cells](http://www.ncbi.nlm.nih.gov/pubmed/15550250)." _Cell_ 119 (2004): 693-705. {{< br >}}{{< br >}}  |
+| 11 | Field trip | &nbsp; |
+| 12 | Noise in development |  {{< br >}}{{< br >}} Wernet, M. F., E. O. Mazzoni, A. Celik, D. M. Duncan, I. Duncan, and C. Desplan. "[Stochastic Spineless Expression Creates the Retinal Mosaic for Colour Vision](http://dx.doi.org/10.1038/nature04615)." _Nature_ 440 (2006): 174-80. {{< br >}}{{< br >}} Karp, X., and I. Greenwald. "[Post-transcriptional Regulation of the E/Daughterless Ortholog HLH-2, Negative Feedback, and Birth Order Bias During the AC/VU Decision in _C. elegans_](http://genesdev.cshlp.org/content/17/24/3100.abstract)." _Gene Dev_ 17 (2003): 3100-11. {{< br >}}{{< br >}}  |
+| 13 | Synthetic biology |  {{< br >}}{{< br >}} Levskaya, A., et al. "[Genome Transplantation in Bacteria: Changing One Species to Another](http://dx.doi.org/10.1126/science.1144622)." _Science_ 317 (2007): 632-8. {{< br >}}{{< br >}} Cohn, R. D., et al. "[Angiotensin II Type 1 Receptor Blockade Attenuates TGF-beta-induced Failure of Muscle Regeneration in Multiple Myopathic States](http://dx.doi.org/10.1038/nm1536)." _Nat Med_ 13 (2007): 204-10. {{< br >}}{{< br >}}
